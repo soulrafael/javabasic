@@ -6,7 +6,8 @@ public class calculadora {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!Calculadora Basica");
-	
+		System.out.println("New Hello World!Calculadora Basica");
+
 
 		// variaveis de entrada e instanciamento 
 				Scanner entrada=new Scanner(System.in);
